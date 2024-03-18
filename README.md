@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valeria Y Zavala</h1>
-<h3 align="center">I'm just a regular community college student who is studying computer sciences here at the state of Texas.</h3>
+<h3 align="center">I'm just a regular college student who is studying comp sci here at the state of Texas.</h3>
 
 - 🔭 I’m currently working on **Hangman game**
 
